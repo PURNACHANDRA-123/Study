@@ -1,0 +1,23 @@
+# Compiled binaries
+data_structures/Unit-*/bin/
+*.exe
+*.o
+*.out
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Python cache (for existing files)
+__pycache__/
+*.pyc
+*.pyo
